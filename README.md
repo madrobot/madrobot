@@ -5,7 +5,7 @@ I'm William Salemé, also known as @madrobot 🤖
 - 👀 I’m interested in highly-distributed and highly-available systems
 - 🌱 I’m currently learning machine learning to apply into financial market analysis
 - 🏂 I'm into snowboarding, hiking, backcountry camping and my next adventure will be scuba diving 🤿
-- 👾 My tech stack:
+- 👾 My tech stack is:
 
 [<img align="left" alt="Docker" width="30px" style="padding:10px; padding-top:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://github.com/topics/docker)
 
