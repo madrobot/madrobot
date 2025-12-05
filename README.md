@@ -1,6 +1,6 @@
 ## Heyo! 👋
 
-I'm William Salemé, also known as @madrobot 🤖
+I'm William Scott, also known as @madrobot 🤖
 
 - 👀 I’m interested in highly-distributed and highly-available systems
 - 🌱 I’m currently learning machine learning to apply into financial market analysis
