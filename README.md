@@ -7,11 +7,11 @@ I'm Will Scott, also known as @madrobot 🤖
 - 🏂 I'm into snowboarding, hiking, backcountry camping and my next adventure will be scuba diving 🤿
 - 📺 My preferred dev setup:
 
-[<img align="left" alt="VIM" width="30px" style="padding:10px; padding-top:5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://github.com/topics/vim)
+[<img align="left" alt="NVIM" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/github/explore/blob/main/topics/neovim/neovim.png" />](https://github.com/topics/nvim)
 
 [<img align="left" alt="Zed" width="30px" style="padding:10px; padding-top:5px;" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" />](https://github.com/zed-industries/zed)
 
-[<img align="left" alt="OpenCode" height="30px" style="padding:10px; padding-top:5px;" src="https://github.com/anomalyco/opencode/raw/dev/packages/console/app/src/asset/logo-ornate-dark.svg" />](https://github.com/topics/opencode)
+[<img align="left" alt="OpenCode" height="30px" style="padding:10px; padding-top:5px;" src="https://github.com/user-attachments/assets/b616c5ee-933e-4269-a5de-b3ff1bb85dc3" />](https://github.com/topics/opencode)
 
 [<img align="left" alt="Claude" width="30px" style="padding:10px; padding-top:5px;" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" />](https://github.com/topics/claude)
 
