@@ -1,6 +1,6 @@
 ## Heyo! 👋
 
-I'm Will Scott, also known as @madrobot 🤖
+I'm Will Scott
 
 - 👀 I’m interested in highly-distributed and highly-available systems
 - 🌱 I’m currently learning machine learning to apply into financial market analysis
@@ -60,6 +60,6 @@ I'm Will Scott, also known as @madrobot 🤖
 [<img align="left" alt="AWS" width="30px" style="padding:10px; padding-top:5px;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />](https://github.com/topics/aws)
 
 <!---
-madrobot/madrobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wmxscott/wmxscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
